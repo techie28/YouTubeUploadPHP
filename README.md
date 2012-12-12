@@ -1,10 +1,8 @@
 /*
 Created by Himanshu Sharma
 techie_28@yahoo.com
-feel free to question any time on the blog.
+feel free to suggest/question any time on the blog.
 http://codershelpingcoders.com
-Suggestions are always welcomed.
-
 
 *************************************************************************
 *   REPLACE YOURE KEY in the code($key).You can obtain the key from google

@@ -2,9 +2,8 @@
 /*
 Created by Himanshu Sharma
 techie_28@yahoo.com
-feel free to question any time on the blog.
+feel free to question/suggest any time on the blog.
 http://codershelpingcoders.com
-Suggestions are always welcomed.
 
 
 *************************************************************************
